@@ -3,6 +3,7 @@
 
 ## Tutorials
 [Docker Tutorial for Absolute Beginners] - A Full DevOps Course on How to Run Applications in Container
+
 [Deploy Machine Learning Pipeline on Google Kubernetes Engine] - A step-by-step beginner’s guide to containerize and deploy ML pipeline on Google Kubernetes Engine
 
 
